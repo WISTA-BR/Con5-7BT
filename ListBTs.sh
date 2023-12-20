@@ -1,0 +1,1 @@
+# list BT devices nearby
